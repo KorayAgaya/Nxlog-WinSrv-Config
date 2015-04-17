@@ -1,0 +1,1 @@
+# Nxlog-WinSrv-Config
